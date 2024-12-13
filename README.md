@@ -10,7 +10,6 @@ I'm a passionate <b>Full-Stack Developer</b> with a love for creating intuitive,
 - 🌱 Currently exploring **APIs** and enhancing my skills in **Object-Oriented Programming (OOP)** principles.  
 - 💻 Working on a **Flutter weather app** with a focus on search functionalities.  
 - 🎯 Aspiring to make applications more realistic and impactful using APIs.  
-- ✍️ Documenting my **Web Development 
 
 ---
 
