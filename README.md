@@ -66,11 +66,11 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
 
 </div>
-
+<!--
 ## 📊 This Week I Spent Time On
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alokkumar777&layout=compact" alt="Wakatime Stats"/>
-</div>
+</div> -->
 
 ## 🎯 Current Goals
 ```mermaid
