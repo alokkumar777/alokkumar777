@@ -37,13 +37,17 @@
 
 ## 🚀 About Me
 > *Transforming ideas into code, one commit at a time*
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🌱 Currently exploring **APIs** and **OOP** principles
-- 💻 Working on a **Flutter weather app**
-- 🎯 Making applications more realistic with APIs
-- ⚡ Always learning, always coding
+- 🌱 Currently exploring **APIs** and **OOP** principles  
+- 💻 Working on a **Flutter weather app**  
+- 🎯 Making applications more realistic with APIs  
+- ⚡ Always learning, always coding  
+
+</div>
+
 
 ## 💻 Tech Stack
 
