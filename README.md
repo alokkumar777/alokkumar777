@@ -13,7 +13,7 @@
 <div align="center">
   
   ```javascript
-  const alok = {
+  const its_ak = {
     code: ["JavaScript", "Python", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "APIs"],
     technologies: {
