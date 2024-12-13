@@ -1,68 +1,109 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/alokkumar777" target="_blank">Alok Kumar</a> 👋</h1>  
-<p align="center">  
-I'm a passionate <b>Full-Stack Developer</b> with a love for creating intuitive, dynamic, and scalable web applications.  
-</p>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alok+Kumar+%F0%9F%91%8B;Full-Stack+Developer;Python+Enthusiast;API+Explorer" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alokkumar777&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokkumar777&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<div align="center">
+  
+  ```javascript
+  const alok = {
+    code: ["JavaScript", "Python", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "APIs"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Tailwind CSS"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Flask"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        tools: ["Git", "GitHub", "VSCode", "Jupyter"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+  };
+  ```
+  
+</div>
+
+## 🚀 About Me
+> *Transforming ideas into code, one commit at a time*
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+- 🌱 Currently exploring **APIs** and **OOP** principles
+- 💻 Working on a **Flutter weather app**
+- 🎯 Making applications more realistic with APIs
+- ⚡ Always learning, always coding
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
+
+</div>
+
+## 📊 This Week I Spent Time On
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alokkumar777&layout=compact" alt="Wakatime Stats"/>
+</div>
+
+## 🎯 Current Goals
+```mermaid
+mindmap
+  root((2024 Goals))
+    E-commerce Project
+      Python Backend
+      Database Design
+      API Integration
+    TypeScript
+      Advanced Types
+      React Integration
+    Problem Solving
+      Regex Mastery
+      Algorithm Practice
+```
+
+## 🤝 Connect with Me
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alokkumar777.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kumar-8b47a4270)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Alokumar1810)
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alokkumar777&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 🚀 About Me  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokkumar777&theme=radical" alt="GitHub Streak"/>
+</div>
 
-- 🌱 Currently exploring **APIs** and enhancing my skills in **Object-Oriented Programming (OOP)** principles.  
-- 💻 Working on a **Flutter weather app** with a focus on search functionalities.  
-- 🎯 Aspiring to make applications more realistic and impactful using APIs.  
-
----
-
-## 🛠️ Tech Stack  
-
-### **Frontend**  
-<p>  
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
-</p>  
-
-### **Backend**  
-<p>  
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>  
-</p>  
-
-### **Databases**  
-<p>  
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>  
-</p>  
-
-### **Tools**  
-<p>  
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>  
-</p>  
-
----
-
-## 📌 Current Goals  
-- 🔨 Building a basic **e-commerce project** in Python.  
-- 💡 Learning **TypeScript** to strengthen my JavaScript skills.  
-- 🧠 Gaining advanced proficiency in **regex patterns** and improving problem-solving skills in Python.  
-
----
-
-## 🌐 Connect with Me  
-<p>  
-  <a href="https://alokkumar777.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>  
-  <a href="https://www.linkedin.com/in/alok-kumar-8b47a4270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="https://x.com/Alokumar1810?t=7PaB-YwABHehhEtb_00gJw&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
-</p>  
-
----
-
-Feel free to contribute to my repositories, suggest improvements, or collaborate on exciting projects! 🎉  
+<h3 align="center">
+  Thanks for visiting! Let's build something amazing together! 🚀
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.gif" width="30px"/>
+</h3>
