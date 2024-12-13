@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/alokkumar777" target="_blank">Alok Kumar</a> 👋</h1>  
 <p align="center">  
-I'm a passionate **Full-Stack Developer** with a love for creating intuitive, dynamic, and scalable web applications.  
+I'm a passionate <b>Full-Stack Developer</b> with a love for creating intuitive, dynamic, and scalable web applications.  
 </p>  
 
 ---
