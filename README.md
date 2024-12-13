@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋  
+# Hi there, I'm Alok Kumar 👋  
 
 I'm a passionate **Full-Stack Developer** with a love for creating intuitive, dynamic, and scalable web applications. I specialize in building seamless user experiences and powerful backend solutions using modern technologies.  
 
@@ -43,8 +43,8 @@ I'm a passionate **Full-Stack Developer** with a love for creating intuitive, dy
 ---
 
 ## 🌐 Let's Connect  
-- [Portfolio](#)  
-- [LinkedIn](#)  
+- [Portfolio](https://alokkumar777.github.io/my-portfolio/)  
+- [LinkedIn](www.linkedin.com/in/alok-kumar-8b47a4270)  
 - [Twitter](#)  
 
 ---
