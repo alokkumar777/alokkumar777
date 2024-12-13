@@ -38,7 +38,7 @@
 ## 🚀 About Me
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="240" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🌱 Currently exploring **APIs** and **OOP** principles  
 - 💻 Working on a **Flutter weather app**  
