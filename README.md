@@ -74,7 +74,7 @@
 ## 🎯 Current Goals
 ```mermaid
 mindmap
-  root((2024 Goals))
+  root((2025 Goals))
     E-commerce Project
       Python Backend
       Database Design
