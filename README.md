@@ -75,6 +75,9 @@
 ```mermaid
 mindmap
   root((2025 Goals))
+    Daily Practice
+      LeetCode
+      HackerRank
     E-commerce Project
       Python Backend
       Database Design
