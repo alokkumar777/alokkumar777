@@ -53,7 +53,7 @@
 <div align="center">
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart,react,angular,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)](https://skillicons.dev)
@@ -63,6 +63,9 @@
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,bash,github,vscode,pycharm,idea)](https://skillicons.dev)
+
+### Familiar With
+[![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,dotnet,dart,flutter,)](https://skillicons.dev)
 
 </div>
 <!--
