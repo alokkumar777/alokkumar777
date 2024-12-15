@@ -109,7 +109,7 @@ mindmap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokkumar777&theme=radical" alt="GitHub Streak"/>
 </div>
 
-<h3 align="center">
-  Thanks for visiting! Let's build something amazing together! 🚀
+<h4 align="center">
+  Thanks for visiting! Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions. 🚀
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.gif" width="30px"/>
-</h3>
+</h4>
