@@ -56,16 +56,16 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)]
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)]
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,bash,github,vscode,pycharm,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,github,vscode,pycharm,idea)]
 
 ### Familiar With
-[![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,dotnet,dart,flutter,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,dotnet,dart,flutter,)]
 
 </div>
 <!--
