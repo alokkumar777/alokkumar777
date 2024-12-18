@@ -120,9 +120,9 @@ mindmap
   
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%22Programming+isn't+about+what+you+know%3B;it's+about+what+you+can+figure+out.%22+-+Chris+Pine" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%22Programming+isn't+about+what+you+know%3B;it's+about+what+you+can+figure+out.%22+-+Chris+Pine" />
-      <img alt="Quote" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%22Programming+isn't+about+what+you+know%3B;it's+about+what+you+can+figure+out.%22+-+Chris+Pine" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%22Programming+isn't+about+what+you+know%3B;it's+about+what+you+can+figure+out.%22+-+Chris+Pine" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%22Programming+isn't+about+what+you+know%3B;it's+about+what+you+can+figure+out.%22+-+Chris+Pine" />
+      <img alt="Quote" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%22Programming+isn't+about+what+you+know%3B;it's+about+what+you+can+figure+out.%22+-+Chris+Pine" />
     </picture>
   </div>
   
