@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alok+Kumar+%F0%9F%91%8B;Full-Stack+Developer;Python+Enthusiast;API+Explorer;JavaScript+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
+<!-- Profile view -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alokkumar777&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
