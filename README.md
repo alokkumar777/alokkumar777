@@ -109,7 +109,7 @@ mindmap
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokkumar777&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=alokkumar777&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <h4 align="center">
