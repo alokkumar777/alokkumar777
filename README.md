@@ -57,7 +57,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,django)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
