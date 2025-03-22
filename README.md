@@ -42,7 +42,7 @@
 <img align="right" width="240" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🌱 Currently exploring **APIs** and **JavaScript**  
-- 💻 Working on a **Hospital Management System Using Python**  
+- 💻 Working on a **Nothing... On Break**  
 - 🎯 Making applications more realistic with APIs  
 - ⚡ Always learning, always coding  
 </div>
