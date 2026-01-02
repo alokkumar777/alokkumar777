@@ -41,8 +41,8 @@
 
 <img align="right" width="240" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🌱 Currently exploring **APIs** and **JavaScript**  
-- 💻 Working on a **Nothing... On Break**  
+- 🌱 Currently exploring **AI** and **ML**  
+- 💻 Working on a **Up Skilling...**  
 - 🎯 Making applications more realistic with APIs  
 - ⚡ Always learning, always coding  
 </div>
